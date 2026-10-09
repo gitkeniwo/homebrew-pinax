@@ -1,4 +1,6 @@
-# homebrew-pinax
+<img width="256" height="256" alt="a4pwt-jhs4v" src="https://github.com/user-attachments/assets/a0bf59a0-f3b4-4420-a6af-2c000864cbc2" />
+
+# pinax
 
 Homebrew tap for Pinax, a self-hosted image catalog for macOS.
 
