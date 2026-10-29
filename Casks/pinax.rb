@@ -1,6 +1,6 @@
 cask "pinax" do
-  version "0.3.0"
-  sha256 "8fc3d2802c04dbb0af90da2921ec68119bd5fd4f896bf992575305335e090512"
+  version "0.3.1"
+  sha256 "62030b283b59c44b5337af99aa7524eab70fb2f27117a2f8a123e441400a41be"
 
   url "https://github.com/gitkeniwo/homebrew-pinax/releases/download/v#{version}/Pinax-#{version}.zip"
   name "Pinax"

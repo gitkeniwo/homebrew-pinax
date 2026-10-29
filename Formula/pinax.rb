@@ -1,9 +1,9 @@
 class Pinax < Formula
   desc "Self-hosted image catalog (command-line tool)"
   homepage "https://github.com/gitkeniwo/homebrew-pinax"
-  url "https://github.com/gitkeniwo/homebrew-pinax/releases/download/v0.3.0/pinax-cli-0.3.0.zip"
-  version "0.3.0"
-  sha256 "62f1a63247182fd4bd86f3c5f8227e9e205fbaca8a5015c84dbc2df715b1cab2"
+  url "https://github.com/gitkeniwo/homebrew-pinax/releases/download/v0.3.1/pinax-cli-0.3.1.zip"
+  version "0.3.1"
+  sha256 "35de65bf80ddf52ef817d8cf60ed3b6ea861a337805773ae251485edb44b2504"
 
   depends_on macos: :sonoma
 
